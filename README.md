@@ -7,3 +7,5 @@ Some coding conventions:
 - An item is both a leek and a tool.
 - Functions should be as generic as possible.
 - Functions should be separate and only the main file must call functions from other files.
+
+/!\ Always test before comitting !
